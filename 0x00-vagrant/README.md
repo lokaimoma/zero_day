@@ -1,0 +1,1 @@
+# Vagrant - Getting started
